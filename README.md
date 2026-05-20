@@ -272,7 +272,7 @@ Set `validateOnChange: false` in `AutoForm` and validation will only occur on su
 ## Additional information
 
 - [API Reference](https://pub.dev/documentation/auto_form_builder/latest/)
-- [Issue Tracker](https://github.com/KANAGARAJ-M/auto_form_builder/issues)
+- [Issue Tracker](https://github.com/bluedev-in/auto_form_builder/issues)
 - Contributions and pull requests are welcome!
 - For questions or support, please open an issue on GitHub.
 
