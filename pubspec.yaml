@@ -1,6 +1,6 @@
 name: auto_form_builder
 description: "A Flutter package for dynamic forms with wizards, conditional fields, computed values, input masking, validation, and draft saving."
-version: 1.0.0
+version: 1.0.1
 homepage: https://bluedev.in/
 repository: https://github.com/bluedev-in/auto_form_builder
 issue_tracker: https://github.com/bluedev-in/auto_form_builder/issues
